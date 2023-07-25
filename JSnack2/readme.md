@@ -4,7 +4,7 @@ Generatore di “nomi cognomi” casuali: il Grande Gatsby ha una lista di nomi 
 
 ## SVOLGIMENTO TEORICO
 
-- creo 2 liste uguali
+- creo 2 liste con il numero di elementi uguali
 
   - una di nomi
   - una di cognomi
